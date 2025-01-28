@@ -8,10 +8,10 @@ Jekyll theme: [Cayman](https://github.com/pages-themes/cayman)
 
 [Git](IT/git.md)
 
-[prect](IT/prefect.md)
+[Prefect](IT/prefect.md)
 
 [UV](IT/uv.md)
 
 ### 经济
 
-[2023-11-19-测试](2023-11-19-测试.md)
+[富人的阴谋](经济/富人的阴谋.md)
